@@ -1,3 +1,5 @@
+Service is live! Check it out [here](https://gperdrizet-ml-web-app-using-flask.onrender.com/)
+
 # ML web app with Flask example: diabetes prediction
 
 ## Introduction
