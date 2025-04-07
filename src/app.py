@@ -3,7 +3,7 @@ import pandas as pd
 from flask import Flask, request, render_template
 
 # Load the model
-model_file='/workspaces/Madesh-ML-web-app-using-Flask/models/model.pklguni'
+model_file='/workspaces/Madesh-ML-web-app-using-Flask/models/model.pkl'
 
 with open(model_file, 'rb') as input_file:
     model=pickle.load(input_file)
